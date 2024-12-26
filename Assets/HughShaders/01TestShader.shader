@@ -1,4 +1,4 @@
-Shader "HughShaders/FristShader"
+Shader "HughShaders/01TestShader"
 {
     Properties
     {
